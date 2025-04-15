@@ -25,4 +25,7 @@ location of the Main.exe file
 db folder - StoredProcedureClasses
 Shared connectionString As String = "Server=; Database=Test; Integrated Security=True; Encrypt=True; TrustServerCertificate=True;"
 
-Access the web folder -> react login -> npm start -> access the backend -> node server.js
+
+backend in terminal run npm install
+
+react-login in terminal run npm install
